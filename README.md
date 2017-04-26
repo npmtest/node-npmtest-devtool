@@ -1,6 +1,6 @@
 # npmtest-devtool
 
-#### test coverage for  [devtool (v2.3.1)](https://github.com/Jam3/devtool)  [![npm package](https://img.shields.io/npm/v/npmtest-devtool.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-devtool) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-devtool.svg)](https://travis-ci.org/npmtest/node-npmtest-devtool)
+#### basic test coverage for  [devtool (v2.3.1)](https://github.com/Jam3/devtool)  [![npm package](https://img.shields.io/npm/v/npmtest-devtool.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-devtool) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-devtool.svg)](https://travis-ci.org/npmtest/node-npmtest-devtool)
 
 #### runs Node.js programs through Chromium DevTools
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-devtool/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-devtool/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-devtool/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-devtool/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-devtool/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-devtool/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-devtool/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-devtool/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-devtool/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-devtool/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-devtool/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-devtool/build/coverage.html/index.html)
 
